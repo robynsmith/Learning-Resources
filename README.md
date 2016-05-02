@@ -10,7 +10,7 @@ This repository is record stuff that I learn and links to their resources.
 
 
 ### Puppet
-- [Learning VM](https://learn.puppet.com/)) *(Note: In progress)*  
+- [Free Code Camp](www.freecodecamp.com)) *(Note: In progress)*  
 > Working on the Learning VM tutorials.
 
 ### JavaScript/Node Stack
