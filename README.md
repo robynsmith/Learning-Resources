@@ -1,10 +1,8 @@
 # tech
 This repository is record stuff that I learn.
 
-# Puppet
-
-Puppet Training - Puppet Training
-https://learn.puppet.com/
+### Puppet
+> [Learning VM](https://learn.puppet.com/)
 
 - Working on the Learning VM tutorials.
 
