@@ -9,9 +9,9 @@ This repository is record stuff that I learn and links to their resources.
 >Will work on these when done the Learning VM tutorials above.
 
 
-### Puppet
+### Javascript/Node Stack
 - [Free Code Camp](www.freecodecamp.com)) *(Note: In progress)*  
-> Working on the Learning VM tutorials.
+> Working on the FCC curriculum to teach myself more about web applications and the JavaScript stack. 2 Projects away from the Front-end Certificate being completed.
 
 ### JavaScript/Node Stack
 - [Free Code Camp](www.freecodecamp.com) *(Note: In progress)*
