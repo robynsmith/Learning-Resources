@@ -2,7 +2,7 @@
 This repository is record stuff that I learn.
 
 ### Puppet
-- [Learning VM](https://learn.puppet.com/)
+- [Learning VM](https://learn.puppet.com/)) *(Note: In progress)*  
 > Working on the Learning VM tutorials.
 
 - [Self-paced Training](https://learn.puppet.com/category/self-paced-training)
