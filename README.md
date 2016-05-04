@@ -24,6 +24,6 @@ This repository is record stuff that I learn and links to their resources.
 > - Able to get subsquent boxes up within seconds
 
 ### HTML/CSS
-- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [Learn to Code HTML & CSS - Basics](http://learn.shayhowe.com/html-css/)
 - [Learn CSS Layout](http://learnlayout.com/)
-- [Learn to Code HTML & CSS]](http://learn.shayhowe.com/)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
