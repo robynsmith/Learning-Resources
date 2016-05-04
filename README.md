@@ -10,6 +10,8 @@ This repository is record stuff that I learn and links to their resources.
 
 >Will work on these when done the Learning VM tutorials above.
 
+- [Learning Puppet with Vagrant - Sysadmin Casts](https://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant) *(Note: Complete)*
+
 ### JavaScript/Node Stack
 - [Free Code Camp: Front End Development Certificate](www.freecodecamp.com) *(Note: In progress)*
 
