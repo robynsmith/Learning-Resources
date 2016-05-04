@@ -38,4 +38,4 @@ This repository is record stuff that I learn and links to their resources.
 - [Sysadmin Casts - bite-sized sysadmin screencasts](https://sysadmincasts.com/)
 
 ### Docker
-- [Introduction to Docker - Sysadmin Casts](https://sysadmincasts.com/episodes/31-introduction-to-docker)
+- [Introduction to Docker - Sysadmin Casts](https://sysadmincasts.com/episodes/31-introduction-to-docker) *(Note: Complete)*
