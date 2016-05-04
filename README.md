@@ -27,3 +27,9 @@ This repository is record stuff that I learn and links to their resources.
 - [Learn to Code HTML & CSS - Basics](http://learn.shayhowe.com/html-css/)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
+
+### Git
+- [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+### Web Development
+- [How to become a web developer](http://aestheticio.com/how-to-become-a-web-developer-part-1/)
