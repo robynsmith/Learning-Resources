@@ -22,3 +22,8 @@ This repository is record stuff that I learn and links to their resources.
 > Notes
 > - Managed to get an Ubuntu VM up and running in about 10 minutes without any configuration on my part
 > - Able to get subsquent boxes up within seconds
+
+### HTML/CSS
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [Learn CSS Layout](http://learnlayout.com/)
+- [Learn to Code HTML & CSS]](http://learn.shayhowe.com/)
