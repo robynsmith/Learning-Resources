@@ -37,5 +37,6 @@ This repository is record stuff that I learn and links to their resources.
 ### System Administration
 - [Sysadmin Casts - bite-sized sysadmin screencasts](https://sysadmincasts.com/)
 
-### Docker
+### Docker & Containers
 - [Introduction to Docker - Sysadmin Casts](https://sysadmincasts.com/episodes/31-introduction-to-docker) *(Note: Complete)*
+- [Namespaces Tutorial: Isolate Your Linux System | Toptal](https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces)
