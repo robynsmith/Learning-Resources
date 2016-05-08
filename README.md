@@ -14,6 +14,7 @@ This repository is record stuff that I learn and links to their resources.
 
 ### JavaScript/Node Stack
 - [Free Code Camp: Front End Development Certificate](www.freecodecamp.com) *(Note: In progress)*
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 >Working on the FCC curriculum to teach myself more about web applications and the JavaScript stack. 2 Projects away from the Front-end Certificate being completed.
 
