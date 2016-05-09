@@ -34,6 +34,7 @@ This repository is record stuff that I learn and links to their resources.
 
 ### Git
 - [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [How to Use Git and GitHub | Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ### Web Development
 - [How to become a web developer](http://aestheticio.com/how-to-become-a-web-developer-part-1/)
