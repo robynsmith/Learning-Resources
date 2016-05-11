@@ -12,6 +12,8 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 
 - [Learning Puppet with Vagrant - Sysadmin Casts](https://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant) *(Note: Complete)*
 
+- [How To Use Puppet To Manage Your Servers | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-use-puppet-to-manage-your-servers-2)
+
 ### JavaScript/Node Stack
 - [Free Code Camp: Front End Development Certificate](www.freecodecamp.com) *(Note: In progress)*
 - [Eloquent JavaScript](http://eloquentjavascript.net/) *(Note: In progress - Chapter 1)*
