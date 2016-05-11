@@ -15,7 +15,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### JavaScript/Node Stack
 - [Free Code Camp: Front End Development Certificate](www.freecodecamp.com) *(Note: In progress)*
 - [Eloquent JavaScript](http://eloquentjavascript.net/) *(Note: In progress - Chapter 1)*
-- [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) *(Note: Read down to "functions" secion)*
 
 >Working on the FCC curriculum to teach myself more about web applications and the JavaScript stack. 2 Projects away from the Front-end Certificate being completed.
 
