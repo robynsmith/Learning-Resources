@@ -51,3 +51,8 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### Networking
 
 - [EdX Networking-SP Course Info | Stanford Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/)
+- 
+
+### Podcasts
+
+- [The best podcasts for new coders, and the best tools for listening to them — Free Code Camp](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.q4tmalgdl)
