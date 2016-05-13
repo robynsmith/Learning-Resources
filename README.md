@@ -19,7 +19,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
  
 >Working on the FCC curriculum to teach myself more about web applications and the JavaScript stack. 2 Projects away from the Front-end Certificate being completed.
 
-- [Eloquent JavaScript](http://eloquentjavascript.net/) *(Note: In progress - Chapter 1)*
+- [Eloquent JavaScript](http://eloquentjavascript.net/) *(Note: In progress - Chapter 1 Complete)*
 - [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) *(Note: Complete)*
  
 > You can learn a lot by reading source code and reading about components of different libraries/frameworks. A record of useful ones are below.
