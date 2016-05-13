@@ -2,7 +2,7 @@
 This repository is to record stuff that I learn, hope to learn, and links to their resources.
 
 ### Puppet
-- [Learning VM](https://learn.puppet.com/) *(Note: In progress - finished "5- Manifests and Classes")*
+- [Learning VM](https://learn.puppet.com/) *(Note: In progress - finished "6- Modules")*
 
 > Working on the Learning VM tutorials.
 
