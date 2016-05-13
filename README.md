@@ -16,10 +16,16 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 
 ### JavaScript/Node Stack
 - [Free Code Camp: Front End Development Certificate](www.freecodecamp.com) *(Note: In progress)*
+ 
+>Working on the FCC curriculum to teach myself more about web applications and the JavaScript stack. 2 Projects away from the Front-end Certificate being completed.
+
 - [Eloquent JavaScript](http://eloquentjavascript.net/) *(Note: In progress - Chapter 1)*
 - [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) *(Note: Complete)*
-
->Working on the FCC curriculum to teach myself more about web applications and the JavaScript stack. 2 Projects away from the Front-end Certificate being completed.
+ 
+> You can learn a lot by reading source code and reading about components of different libraries/frameworks. A record of useful ones are below.
+- [underscore.js](http://underscorejs.org/docs/underscore.html)
+- [Backbone.js](http://backbonejs.org/)
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
 ### Vagrant
 - [Getting Started](https://www.vagrantup.com/docs/getting-started/) *(Note: Complete)*
