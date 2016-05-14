@@ -2,7 +2,7 @@
 This repository is to record stuff that I learn, hope to learn, and links to their resources.
 
 ### Puppet
-- [Learning VM](https://learn.puppet.com/) *(Note: In progress - finished "8 - MySQL")*
+- [Learning VM](https://learn.puppet.com/) *(Note: In progress - finished "9 - Variables and Parameters")*
 
 > Working on the Learning VM tutorials.
 
