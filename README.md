@@ -62,3 +62,4 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### Podcasts
 
 - [The best podcasts for new coders, and the best tools for listening to them — Free Code Camp](https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc#.q4tmalgdl)
+- [The Changelog - Open source moves fast. Keep up.](https://changelog.com/)
