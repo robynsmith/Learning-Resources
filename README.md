@@ -47,11 +47,11 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 
 ### Web Development
 - [How to become a web developer](http://aestheticio.com/how-to-become-a-web-developer-part-1/)
-- [IPv6 Certification](https://ipv6.he.net/certification/)
 
 ### System Administration
 - [Sysadmin Casts - bite-sized sysadmin screencasts](https://sysadmincasts.com/)
 - [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+- [IPv6 Certification](https://ipv6.he.net/certification/)
 
 ### Docker & Containers
 - [Introduction to Docker - Sysadmin Casts](https://sysadmincasts.com/episodes/31-introduction-to-docker) *(Note: Complete)*
