@@ -68,3 +68,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### Encryption / SSL
 
 - [About - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/about/)
+
+### Math
+
+- [Professor Leonard - YouTube](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
