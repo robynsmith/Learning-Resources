@@ -72,3 +72,6 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### Math
 
 - [Professor Leonard - YouTube](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
+
+### Free Books
+[Programming from the Ground Up](http://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
