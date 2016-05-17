@@ -21,6 +21,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/) *(Note: In progress - Chapter 1 Complete)*
 - [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) *(Note: Complete)*
+- [React 101, Part 1: Building a GIF search engine | Blog | Tighten Co. | Product Development for Web, Mobile, and Beyond](http://blog.tighten.co/react-101-building-a-gif-search-engine)
  
 > You can learn a lot by reading source code and reading about components of different libraries/frameworks. A record of useful ones are below.
 - [underscore.js](http://underscorejs.org/docs/underscore.html)
