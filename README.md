@@ -61,6 +61,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 
 - [EdX Networking-SP Course Info | Stanford Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/)
 - [Introduction to Networking - YouTube](https://www.youtube.com/watch?v=rL8RSFQG8do&feature=youtu.be)
+- [IPv6 Certification](https://ipv6.he.net/certification/)
 
 ### Podcasts
 
