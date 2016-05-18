@@ -78,8 +78,8 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Professor Leonard - YouTube](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
 
 ### Free Books
-[Programming from the Ground Up](http://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+- [Programming from the Ground Up](http://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
 ### Python
-[Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
-[ROSALIND | Problems | Locations](http://rosalind.info/problems/locations/)
+- [Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
+- [ROSALIND | Problems | Locations](http://rosalind.info/problems/locations/)
