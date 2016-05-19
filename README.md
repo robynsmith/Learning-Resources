@@ -24,6 +24,8 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [React 101, Part 1: Building a GIF search engine | Blog | Tighten Co. | Product Development for Web, Mobile, and Beyond](http://blog.tighten.co/react-101-building-a-gif-search-engine)
 - [Thinking in React | React](https://facebook.github.io/react/docs/thinking-in-react.html)
 - [Understanding Redux (or, How I Fell in Love with a JavaScript State Container) — you have to learn computers](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
+- [Using React.js v0.12 - Part 1/8 - Components - YouTube](https://www.youtube.com/watch?v=N98ACjjJABw)
+- [Tutorial | React](https://facebook.github.io/react/docs/tutorial.html)
 - [A Gentle Introduction to Javascript Test Driven Development: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 - [Contributing to FCC](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md)
  
