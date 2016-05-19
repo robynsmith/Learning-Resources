@@ -88,3 +88,9 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### Python
 - [Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
 - [ROSALIND | Problems | Locations](http://rosalind.info/problems/locations/)
+
+### Network Load Balancer
+- [An Introduction to HAProxy and Load Balancing Concepts | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
+
+### Continuous Integration
+- [Jenkins Documentation](https://jenkins.io/doc/)
