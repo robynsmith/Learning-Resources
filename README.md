@@ -86,7 +86,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Programming from the Ground Up](http://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
 ### Python
-- [Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
+- [Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/) *(Not: Page 1 complete)*
 - [ROSALIND | Problems | Locations](http://rosalind.info/problems/locations/)
 
 ### Network Load Balancer
