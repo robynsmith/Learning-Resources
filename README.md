@@ -44,8 +44,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 
 ### HTML/CSS
 - [Learn to Code HTML & CSS - Basics](http://learn.shayhowe.com/html-css/)
-- [Learn CSS Layout](http://learnlayout.com/)
-- [Learn to Code HTML & CSS](http://learn.shayhowe.com/)
+- [Learn to Code HTML & CSS and CSS Layouts](http://learn.shayhowe.com/)
 
 ### Git
 - [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
