@@ -57,6 +57,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Sysadmin Casts - bite-sized sysadmin screencasts](https://sysadmincasts.com/)
 - [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 - [IPv6 Certification](https://ipv6.he.net/certification/)
+- [The Practice of System and Network Administration, Second Edition: Thomas A. Limoncelli, Christina J. Hogan, Strata R. Chalup: 0785342492668: Amazon.com: Books](http://www.amazon.com/Practice-System-Network-Administration-Second/dp/0321492668)
 
 ### Docker & Containers
 - [Introduction to Docker - Sysadmin Casts](https://sysadmincasts.com/episodes/31-introduction-to-docker) *(Note: Complete)*
