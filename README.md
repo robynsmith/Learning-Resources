@@ -52,6 +52,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 
 ### Web Development
 - [How to become a web developer](http://aestheticio.com/how-to-become-a-web-developer-part-1/)
+- [RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1](https://pretty-rfc.herokuapp.com/RFC2616)
 
 ### System Administration
 - [Sysadmin Casts - bite-sized sysadmin screencasts](https://sysadmincasts.com/)
