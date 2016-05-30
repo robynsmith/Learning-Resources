@@ -1,6 +1,9 @@
 # Learning-Resources
 This repository is to record stuff that I learn, hope to learn, and links to their resources.
 
+### General
+- [So You Want to Be a (Compiler) Wizard // -dealloc]http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/
+
 ### Puppet
 - [Learning VM](https://learn.puppet.com/) *(Note: In progress - finished "9 - Variables and Parameters")*
 
