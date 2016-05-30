@@ -49,6 +49,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### Git
 - [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - [How to Use Git and GitHub | Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
 
 ### Web Development
 - [How to become a web developer](http://aestheticio.com/how-to-become-a-web-developer-part-1/)
