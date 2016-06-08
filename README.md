@@ -95,6 +95,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/) *(Not: Page 1 complete)*
 - [ROSALIND | Problems | Locations](http://rosalind.info/problems/locations/)
 - [Philip Guo - CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
+- Popular linter: flake8
 
 ### Network Load Balancer
 - [An Introduction to HAProxy and Load Balancing Concepts | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
