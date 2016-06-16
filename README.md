@@ -98,6 +98,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 - [Google's Python Class  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/)
 - [Introduction · A Byte of Python](http://python.swaroopch.com/)
+- [Dive Into Python](http://www.diveintopython.net/)
 - Popular linter: flake8
 
 ### Network Load Balancer
