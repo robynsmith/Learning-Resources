@@ -99,6 +99,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Google's Python Class  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/)
 - [Introduction · A Byte of Python](http://python.swaroopch.com/)
 - [Dive Into Python](http://www.diveintopython.net/)
+- [The Python Tutorial — Python 2.7.12rc1 documentation](https://docs.python.org/2/tutorial/index.html)
 - Popular linter: flake8
 
 ### Network Load Balancer
