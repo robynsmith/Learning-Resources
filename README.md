@@ -31,6 +31,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Tutorial | React](https://facebook.github.io/react/docs/tutorial.html)
 - [A Gentle Introduction to Javascript Test Driven Development: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 - [Contributing to FCC](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md)
+- [How to learn JavaScript | Derek Sivers](https://sivers.org/learn-js)
  
 > You can learn a lot by reading source code and reading about components of different libraries/frameworks. A record of useful ones are below.
 - [underscore.js](http://underscorejs.org/docs/underscore.html)
