@@ -49,6 +49,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 ### HTML/CSS
 - [Learn to Code HTML & CSS - Basics](http://learn.shayhowe.com/html-css/)
 - [Learn to Code HTML & CSS and CSS Layouts](http://learn.shayhowe.com/)
+- [Meaning of numbers in col-md-4 , col-xs-1 , col-lg-2 in bootstrap](https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap)
 
 ### Git
 - [Git - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
