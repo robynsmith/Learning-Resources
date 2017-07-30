@@ -104,6 +104,7 @@ This repository is to record stuff that I learn, hope to learn, and links to the
 - [Dive Into Python](http://www.diveintopython.net/)
 - [The Python Tutorial — Python 2.7.12rc1 documentation](https://docs.python.org/2/tutorial/index.html)
 - [Learn python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+- [How I Hacked My University's Registration System with Python and Twilio](https://www.twilio.com/blog/2017/06/hacked-my-universitys-registration-system-python-twilio.html)
 - Popular linter: flake8
 
 ### Network Load Balancer
